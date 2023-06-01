@@ -1,5 +1,3 @@
-# README
-
 This repository is where we implemented the "" paper.
 
 ### **Datasets and Preprocessing**
