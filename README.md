@@ -1,4 +1,5 @@
-This repository is where we implemented the "" paper.
+This repository is where we implemented the paper that was accepted at Interspeech.
+Paper Name : I Learned Error, I Can Fix It!_A Detector-Corrector Structure for ASR Error Calibration
 
 ### **Datasets and Preprocessing**
 
